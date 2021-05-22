@@ -1,3 +1,3 @@
 # Roll-a-Ball
-Just a random game made on unity framework.
+A ball based game made on unity framework using C# scripting.
 
