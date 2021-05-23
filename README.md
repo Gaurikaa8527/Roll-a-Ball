@@ -5,7 +5,7 @@ This is how it looks:
 
 
 
-![Animated GIF-source](https://user-images.githubusercontent.com/71712297/119275214-6347c780-bc31-11eb-96d8-e08b77757a52.gif)
+![5ao28k](https://user-images.githubusercontent.com/71712297/119275819-d4d54500-bc34-11eb-8a8f-af5335ee6ef9.gif)
 
 
 
