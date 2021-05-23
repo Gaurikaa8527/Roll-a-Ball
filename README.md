@@ -2,7 +2,7 @@
 A ball based game made on unity framework using C# scripting.
 
 This is how it looks:
-<iframe src="https://giphy.com/embed/6jHIH2aBU9JYygSE7T" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6jHIH2aBU9JYygSE7T">via GIPHY</a></p>
+![Animated GIF-source](https://user-images.githubusercontent.com/71712297/119275214-6347c780-bc31-11eb-96d8-e08b77757a52.gif)
 
 It has a counter which counts the number of collectibles as you go along. 
 
